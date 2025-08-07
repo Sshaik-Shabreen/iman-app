@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/iman-app/static/css/main.8d97a034.css",
-    "main.js": "/iman-app/static/js/main.2e8ec026.js",
+    "main.js": "/iman-app/static/js/main.e711d87d.js",
     "static/js/453.8bac09e0.chunk.js": "/iman-app/static/js/453.8bac09e0.chunk.js",
     "static/media/yusuf-forgiveness.jpg": "/iman-app/static/media/yusuf-forgiveness.d7406dc4ab9d04e79d2e.jpg",
     "static/media/ayub-patience.jpg": "/iman-app/static/media/ayub-patience.d266c24506f467e14a15.jpg",
@@ -10,11 +10,11 @@
     "static/media/boy-magician.jpg": "/iman-app/static/media/boy-magician.76095cc67ce39bc1143b.jpg",
     "index.html": "/iman-app/index.html",
     "main.8d97a034.css.map": "/iman-app/static/css/main.8d97a034.css.map",
-    "main.2e8ec026.js.map": "/iman-app/static/js/main.2e8ec026.js.map",
+    "main.e711d87d.js.map": "/iman-app/static/js/main.e711d87d.js.map",
     "453.8bac09e0.chunk.js.map": "/iman-app/static/js/453.8bac09e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d97a034.css",
-    "static/js/main.2e8ec026.js"
+    "static/js/main.e711d87d.js"
   ]
 }
